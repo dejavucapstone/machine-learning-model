@@ -1,13 +1,13 @@
 # Dataset gym equipment
 
-This dataset is used for training, validation and testing of image classification models on 15 gym equipment labels. The dataset structure is organized into `train`, `validation`, and `test` folders, with each folder containing data for 15 categories.
+This dataset is used for training, validation and testing of image classification models on 8 gym equipment labels. The dataset structure is organized into `train`, `validation`, and `test` folders, with each folder containing data for 15 categories.
 
 ### Dataset Statistics
 The dataset statistics are shown below:
 
 ```
-- Number of training samples: 1500 (100 samples per label)
-- Number of validation samples: 300 (20 samples per label)
+- Number of training samples: 800 (100 samples per label)
+- Number of validation samples: 160 (20 samples per label)
 - Number of test samples: -
 - Image size: 224x224
 - Image channels: 3 (RGB)
@@ -17,21 +17,14 @@ The dataset statistics are shown below:
 This dataset consists of 15 labels representing the following gym equipment:
 
 ```
-1.	Arm Curl Machine
-2.	Chest Fly Machine
-3.	Chest Press Machine
-4.	Dumbbell
-5.	Kettlebells
-6.	Lat Pull Down Machine
-7.	Lateral Raises Machine
-8.	Leg Curl Machine
-9.	Leg Extension Machine
-10.	Leg Press Machine
-11.	Leg Raise Tower
-12.	Seated Row Machine
-13.	Shoulder Press Machine
-14.	Smith Machine
-15.	Treadmill
+1.	Chest Fly Machine
+2.	Dumbbell
+3.	Lat Pull Down Machine
+4.	Leg Extension Machine
+5.	Leg Press Machine
+6.	Seated Row Machine
+7.	Smith Machine
+8.	Treadmill
 ```
 
 ### Dataset Information
