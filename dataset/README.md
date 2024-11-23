@@ -14,7 +14,7 @@ The dataset statistics are shown below:
 ```
 
 ### Label Description
-This dataset consists of 15 labels representing the following gym equipment:
+This dataset consists of 8 labels representing the following gym equipment:
 
 ```
 1.	Chest Fly Machine
