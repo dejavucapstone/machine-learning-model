@@ -6,11 +6,10 @@ This dataset is used for training, validation and testing of image classificatio
 The dataset statistics are shown below:
 
 ```
-- Number of training samples: 800 (100 samples per label)
-- Number of validation samples: 160 (20 samples per label)
-- Number of test samples: -
+- Number of training samples: 912 (114 samples per label)
+- Number of validation samples: 112 (14 samples per label)
+- Number of test samples: 112 (14 samples per label)
 - Image size: 224x224
-- Image channels: 3 (RGB)
 ```
 
 ### Label Description
