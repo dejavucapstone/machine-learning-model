@@ -1,6 +1,6 @@
 # Dataset gym equipment
 
-This dataset is used for training, validation and testing of image classification models on 8 gym equipment labels. The dataset structure is organized into `train`, `validation`, and `test` folders, with each folder containing data for 15 categories.
+This dataset is used for training, validation and testing of image classification models on 8 gym equipment labels. The dataset structure is organized into `train`, `validation`, and `test` folders, with each folder containing data for 8 categories.
 
 ### Dataset Statistics
 The dataset statistics are shown below:
