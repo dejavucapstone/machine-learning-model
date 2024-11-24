@@ -6,7 +6,7 @@ This dataset is used for training, validation and testing of image classificatio
 The dataset statistics are shown below:
 
 ```
-- Number of training samples: 912 (114 samples per label)
+- Number of training samples: 896 (112 samples per label)
 - Number of validation samples: 112 (14 samples per label)
 - Number of test samples: 112 (14 samples per label)
 - Image size: 224x224
