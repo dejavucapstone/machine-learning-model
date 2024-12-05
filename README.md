@@ -66,10 +66,10 @@ To get started, clone this repository and install the necessary dependencies:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/dejavucapstone/machine-learning-model.git
+git clone https://github.com/your-username/gym-equipment-classification.git
 ``` 
 ```bash
-cd machine-learning-model
+cd gym-equipment-classification
 ```
 
 ## Requirements
